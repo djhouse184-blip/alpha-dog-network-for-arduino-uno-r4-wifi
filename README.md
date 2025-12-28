@@ -1,5 +1,5 @@
 
-# Alpha Dog Minimal Host (Arduino R4 WiFi)
+# Alpha Dog Minimal Host (Arduino R4 WiFi)  https://sites.google.com/view/arduinounor4wifinetwork/  
 
 A minimal HTTP + UDP host for an Arduino R4 WiFi that runs as a Wi‑Fi Access Point, serves a small offline web dashboard, and accepts short UDP messages from networked devices (for example: ESP32 BLE scanners). Use this README as documentation you can paste into your repository.
 
